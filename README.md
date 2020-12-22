@@ -9,6 +9,8 @@
 - [Example](#example)
 - [Contribution](#contribution)
 
+## Updated to compile with WebSockets v2.3.2 (as of Dec 2020)
+
 ## Install <a name = "install"></a>
 
 ### 💡 This library uses lstdc++
